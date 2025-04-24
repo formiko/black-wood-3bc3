@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "black-wood-3bc3",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4bc782cd-0569-4d8b-8969-2bac4afdbbf5",
+      "database_name": "tiny-cell-1f5f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
